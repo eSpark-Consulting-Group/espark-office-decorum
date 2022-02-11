@@ -1,2 +1,2 @@
 # Office-Decorum
-Maintain Office Decorum and resolve office general issues
+Maintain Office Decorum and resolve office general issues.
